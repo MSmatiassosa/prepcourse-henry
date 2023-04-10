@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba 
+Este es un proyecto de Matias Sosa
